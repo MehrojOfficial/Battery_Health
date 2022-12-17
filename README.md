@@ -9,8 +9,16 @@
 - **Fully customizable time/temperature limits** (to make it support more devices)
 - **Detailed information about battery** (temperature, capacity, voltage, power, income/outcome, etc ...)
 - **Comfortable UI experience rather than messy terminal codes**
-
 ___
+
+### How to use:
+- Flash both modules in Magisk
+- Reboot and configure some options within app
+
+## Recommended settings:
+![Settings](./image.png)
+
+### Download -> [Direct Link](https://www.pling.com/p/1956709)
 
 ## Credits:
 - [VR-25](https://github.com/VR-25/)
