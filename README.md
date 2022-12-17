@@ -23,10 +23,16 @@ ___
 - Charge below -> 70% (healthier charging cycle)
 - Pause above -> 90% (prevention of overcharging)
 
-### ACC Settings/Configuration/Capacity:
+### ACC Settings/Configuration/Temperature:
 - Cooldown above -> 35°C (prevention of overheating)
 - Pause above -> 40°C (it is dangerous to charge in this temperature)
 - Shutdown above -> 45°C (it is deadly to keep the phone on in this condition)
+
+### ACC Settings/Configuration/Cooldown cycle:
+- Charge period -> 50s
+- Cooldown period -> 10s
+
+*other settings recommended not to play without required knowledge
 
 ### Download -> [Direct Link](https://www.pling.com/p/1956709)
 
