@@ -13,7 +13,7 @@ ___
 
 ### How to use:
 - Flash both modules in Magisk
-- Reboot and configure some options within app
+- Reboot, give root access and configure some options within app
 
 ## Recommended settings:
 
