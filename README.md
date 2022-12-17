@@ -16,7 +16,17 @@ ___
 - Reboot and configure some options within app
 
 ## Recommended settings:
-![Settings](./image.png)
+
+### ACC Settings/Configuration/Capacity:
+- Shutdown below -> 2% (fully draining battery is not a good idea)
+- Cooldown above -> 50% (prevention of overheating)
+- Charge below -> 70% (healthier charging cycle)
+- Pause above -> 90% (prevention of overcharging)
+
+### ACC Settings/Configuration/Capacity:
+- Cooldown above -> 35°C (prevention of overheating)
+- Pause above -> 40°C (it is dangerous to charge in this temperature)
+- Shutdown above -> 45°C (it is deadly to keep the phone on in this condition)
 
 ### Download -> [Direct Link](https://www.pling.com/p/1956709)
 
